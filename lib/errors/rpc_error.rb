@@ -1,4 +1,4 @@
-class LiteDogeClient
+class FlapXcoinClient
   class RPCError < StandardError
 
     attr_accessor :message
